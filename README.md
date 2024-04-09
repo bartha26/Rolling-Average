@@ -43,7 +43,7 @@ The rolling average calculation project for 16-bit numbers in VHDL provides a ha
 ![VHDL Code Example](https://github.com/bartha26/Rolling-Average/blob/main/res/Screenshot%202024-04-09%20190743.png)
 *Figure 2: Example VHDL Code*
 
-![VHDL Code Example 1](file:///C:/Users/TudorB/Pictures/Screenshots/Screenshot%202024-04-09%20191029.png)
+![VHDL Code Example 1](https://github.com/bartha26/Rolling-Average/blob/main/res/Screenshot%202024-04-09%20191029.png)
 *Figure 3: Example VHDL Code Register*
 
 By combining theoretical knowledge with practical implementation, this project offers a comprehensive learning experience in digital system design and FPGA programming.
