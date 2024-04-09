@@ -37,13 +37,13 @@ As a new number arrives, the oldest number is replaced, and the rolling average 
 
 The rolling average calculation project for 16-bit numbers in VHDL provides a hands-on experience in digital system design, encompassing various hardware components and requiring meticulous debugging skills. Through this project, one gains a deeper understanding of FPGA-based digital systems and strengthens problem-solving abilities in hardware design.
 
-![Basys3 FPGA Board](C:\Users\TudorB\Pictures\Screenshots\Screenshot 2024-04-09 190226.png)
+![Basys3 FPGA Board](file:///C:/Users/TudorB/Pictures/Screenshots/Screenshot%202024-04-09%20190226.png)
 *Figure 1: Basys3 FPGA Board*
 
-![VHDL Code Example](C:\Users\TudorB\Pictures\Screenshots\Screenshot 2024-04-09 190743.png)
+![VHDL Code Example](file:///C:/Users/TudorB/Pictures/Screenshots/Screenshot%202024-04-09%20190743.png)
 *Figure 2: Example VHDL Code*
 
-![VHDL Code Example1]("C:\Users\TudorB\Pictures\Screenshots\Screenshot 2024-04-09 191029.png")
+![VHDL Code Example 1](file:///C:/Users/TudorB/Pictures/Screenshots/Screenshot%202024-04-09%20191029.png)
 *Figure 3: Example VHDL Code Register*
 
 By combining theoretical knowledge with practical implementation, this project offers a comprehensive learning experience in digital system design and FPGA programming.
